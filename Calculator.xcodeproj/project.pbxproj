@@ -14,6 +14,7 @@
 		E2453A74206C4431005095EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2453A72206C4431005095EE /* LaunchScreen.storyboard */; };
 		E2453A7F206C4431005095EE /* CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2453A7E206C4431005095EE /* CalculatorTests.swift */; };
 		E2453A8A206C4431005095EE /* CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2453A89206C4431005095EE /* CalculatorUITests.swift */; };
+		E2453A98206CA90E005095EE /* Mycustombutton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2453A97206CA90E005095EE /* Mycustombutton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		E2453A85206C4431005095EE /* CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2453A89206C4431005095EE /* CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorUITests.swift; sourceTree = "<group>"; };
 		E2453A8B206C4431005095EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E2453A97206CA90E005095EE /* Mycustombutton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mycustombutton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				E2453A69206C4431005095EE /* AppDelegate.swift */,
 				E2453A6B206C4431005095EE /* ViewController.swift */,
 				E2453A6D206C4431005095EE /* Main.storyboard */,
+				E2453A97206CA90E005095EE /* Mycustombutton.swift */,
 				E2453A70206C4431005095EE /* Assets.xcassets */,
 				E2453A72206C4431005095EE /* LaunchScreen.storyboard */,
 				E2453A75206C4431005095EE /* Info.plist */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E2453A98206CA90E005095EE /* Mycustombutton.swift in Sources */,
 				E2453A6C206C4431005095EE /* ViewController.swift in Sources */,
 				E2453A6A206C4431005095EE /* AppDelegate.swift in Sources */,
 			);
